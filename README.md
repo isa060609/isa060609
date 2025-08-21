@@ -20,9 +20,9 @@
 
 <h2> 🥋✨ Sobre Mim 🤍 </h2>
 
-<p>Meu nome é Isabella Emanuelle 🥋, tenho 16 anos 🤍 e sou desenvolvedora web ✨.</p>
-<p>Também sou lutadora 🥋 e faço o ensino médio 🤍.</p>
-<p>Quero ser uma futura psicóloga, mas confesso que não tenho muita paciência ✨.</p>
+<p>Meu nome é Isabella, tenho 16 anos e sou desenvolvedora web.</p>
+<p>Também sou lutadora 🥋 e faço o ensino médio.</p>
+<p>Quero ser uma futura psicóloga.</p>
 
 ---
 
@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://isabella-ribeiro-091136380/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:" target="_blank">

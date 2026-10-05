@@ -20,7 +20,7 @@
 
 <h2> 🥋✨ Sobre Mim 🤍 </h2>
 
-<p>Meu nome é Isabella, tenho 16 anos e sou desenvolvedora web.</p>
+<p>Meu nome é Isabella, tenho 17 anos e sou desenvolvedora web.</p>
 <p>Também sou lutadora 🥋 e faço o ensino médio.</p>
 <p>Quero ser uma futura psicóloga.</p>
 
